@@ -1,3 +1,3 @@
 # hello-world
-Tutorial project. Well come to github!
+Tutorial project. Welcome to github!
 Hellow, world!
